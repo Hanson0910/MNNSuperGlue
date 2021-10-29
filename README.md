@@ -2,10 +2,7 @@
 
 ## 概述
 
-**-  MNN Superglue C++实现，把https://github.com/magicleap/SuperGluePretrainedNetwork通过MNN进行C++部署，与原python版本精度无偏差。**
-
-**- MNN C++ Inference by converting the source pytorch version(https://github.com/magicleap/SuperGluePretrainedNetwork) into MNN without loss accuracy**
-
+**MNN Superglue C++实现**
 
 
 ## 编译执行
