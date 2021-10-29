@@ -2,7 +2,7 @@
 
 ## 概述
 
-**MNN Superglue C++实现**
+**MNN Superglue 关键点匹配C++实现，原论文《SuperGlue: Learning Feature Matching with Graph Neural Networks (CVPR 2020, Oral)》，原pytorch代码https://github.com/magicleap/SuperGluePretrainedNetwork**
 
 
 ## 编译执行
