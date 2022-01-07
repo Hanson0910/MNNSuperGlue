@@ -12,9 +12,9 @@
   ```
   1.修改Cmake里面MNN库的路径，按照自己实际路径修改
   2.mkdir build
-  1.cd build
-  2.cmake ../
-  3.make
+  3.cd build
+  4.cmake ../
+  5.make
   ```
 
 - 执行
